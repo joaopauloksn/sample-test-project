@@ -1,6 +1,6 @@
 # Pre-requisites:
 
-1. Install NPM dependencies (mocha, karma, chai) by running the command `npm install`
+1. From the `tests/ut` folder, install NPM dependencies (mocha, karma, chai) by running the command `npm install`
 
 # Steps to run the tests:
 
