@@ -41,6 +41,7 @@
    - on the `Test script` field, add the following commands:
    
         ```
+        npm install -g nightwatch
         cd tests/functional
         nightwatch --config nightwatch.json
         ```
